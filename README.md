@@ -1,6 +1,10 @@
 # git
-学习git的repo
-git init
-git add test.md
-git commit -m "creat a file "
+
+## 常用
+
+1. git init
+
+2. git add test.md
+
+3. git commit -m "creat a file "
 
